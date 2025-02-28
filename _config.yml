@@ -4,7 +4,7 @@ email: reese.craglin@gmail.com
 url: https://Cherrrise.github.io/cyber-portfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
-skills: "Cybersecurity - Analyst - Ethical Hacker"
+skills: "Cybersecurity - Analyst - Penetration Tester"
 meta_author: Raglin Cherise
 
 # Google webmaster tools
@@ -40,7 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/beau-gilbert93/
+    url: 
   - title: github
     url: https://github.com/cherrrise
 
