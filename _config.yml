@@ -4,7 +4,7 @@ email: reese.craglin@gmail.com
 url: https://Cherrrise.github.io/cyber-portfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
-skills: "Cybersecurity - Analyst - Penetration Tester"
+skills: "OSINT Analyst - AI/ML Security Architect - Risk Analysis & Incident Response"
 meta_author: Raglin Cherise
 
 # Google webmaster tools
@@ -25,10 +25,10 @@ disqus_shortname:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: DEAAFF #80B3FF
-  primary-rgb: "222,170,255" #"128,179,255"
-  secondary: 48bfe3 #FD6E8A
-  secondary-dark: 7b2cbf #A2122F
+  primary: B53ED6
+  primary-rgb: "181,62,214" 
+  secondary: DCD6F7
+  secondary-dark: 1C0221
 
 # Footer settings
 footer:
